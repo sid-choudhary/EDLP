@@ -1,5 +1,5 @@
 EDLP Business and technical FAQs
 ================================
 
-**Q:** Why EDLP?
+**Q:** Why EDLP?  
 **A:**
